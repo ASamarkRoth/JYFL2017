@@ -22,3 +22,18 @@ Literature
     G. F. Knoll, Radiation Detection and Measurement
     N. Mărginean et al., Eur. Phys. J. 46, 329 (2010)
     H. Mach et al., Nucl. Intrum. Methods A280, 49 (1989)
+
+
+Lecture 2
+Additional links:
+
+    DPUNS plunger at JYFL
+
+    Literature
+
+	A Dewald et al., Progress in Part. Nucl. Phys. 67,786 (2013)
+	P. Petkov et al., Phys. Rev. C 88, 034323 (2013)
+	A. Dewald et al., Nuc. Instrum. Meth. A 329, 248 (1989)
+	M. Taylor et al., Nucl. Instrum. Meth. Phys. Res. A 707, 143 (2013)
+	L. P. Gaffney et al. arXiv:1402.5030 [nucl-ex]
+	R. Julin et al. J. Phys. G: Nucl. Part. Physi. 43, 024004 (2016)
