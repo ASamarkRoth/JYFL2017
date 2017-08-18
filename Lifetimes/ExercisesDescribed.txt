@@ -1,0 +1,14 @@
+Exercises
+
+For the data fitting you can use for example Gnuplot (manual here, good examples here). If you are familiar with Python, you can also modify the scripts and use Python modules.
+
+    You conduct an RDDS lifetime measurement with a plunger device, in which you measure gamma-ray intensities of a transition under investigation as a function of the flight time. The following file contains a decay curve, i.e. normalised gamma-ray intensity (and its error) as a function of the flight distance. The recoil velocity is v/c=0.043. Fit an exponential function to the data and extract the mean lifetime τ.
+
+        Decay curve
+
+    Extract the measured mean lifetime from the data of delayed and non-delayed time distributions using the centroid difference method. Below you will find two .dat files containing the data in x-y-format and a simple Python script that can do the fitting. Usage of the script: python centroid-shift.py <datafile1> <pos1> <sigma1> <datafile2> <pos2> <sigma2> | file1 | file2 | script
+    Extract the lifetime from the simulated data using the DDCM method. The script below (usage: python ddcm.py <tau1> <tau2> <tau3> <tau4>...) produces the effective lifetime curve of the state of interest and its feeder. Also the difference in the intensities is plotted. Approximate the derivative with the straight line. ddcm.py
+    The following text file contains χ2 values as a function of matrix elements <2||E2||0> (1st column) and <2||E2||2> (2st column) in units of eb extracted from the Coulomb excitation data of 208Rn. Find the best values for the both matrix elements. The data is here.
+
+
+
