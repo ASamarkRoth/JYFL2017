@@ -37,3 +37,16 @@ Additional links:
 	M. Taylor et al., Nucl. Instrum. Meth. Phys. Res. A 707, 143 (2013)
 	L. P. Gaffney et al. arXiv:1402.5030 [nucl-ex]
 	R. Julin et al. J. Phys. G: Nucl. Part. Physi. 43, 024004 (2016)
+
+Lecture 3
+	
+	Further reading
+
+	C. A. Bertulani, arXiv:0908.4307 [nucl-th]
+	D. Cline, Ann. Rev. Nucl. Part. Sci. 36, 683(1986)
+	Coulomb excitation code Gosia
+
+	References:
+
+	K. Alder et al., Rev. Mod. Phys. 28, 432 (1956)
+	M. Zielińska et al., Eur. Phys. J. 99, 52 (2016)
